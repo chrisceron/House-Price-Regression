@@ -1,1 +1,1 @@
-# House-Pricie-Regression
+# House-Price-Regression
